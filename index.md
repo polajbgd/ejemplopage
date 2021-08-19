@@ -11,16 +11,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Implementación de redes neuronales
+## Las características de las proteinas
+### ejemplos:
 
-- Bulleted
-- List
+- A1
+- A2
+- A3
+- Ae
+- Fin
 
 1. Numbered
 2. List
-
+Recordar diversas cosas, entre ellas, el uso de fármcaos en el área general
+especialmente herramientas como **videos** para implementar nuevos diseños
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
