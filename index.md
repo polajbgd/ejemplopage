@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Implementación de redes neuronales
 ## Las características de las proteinas
 ### ejemplos:
-
+name = input("Introudce your name")
 - A1
 - A2
 - A3
