@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Implementación de redes neuronales
 ## Las características de las proteinas
 ### ejemplos:
-name = input("Introudce your name")
+
 - A1
 - A2
 - A3
@@ -39,3 +39,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Properties
